@@ -12,10 +12,6 @@ Get in touch!
 
 🌍 Feel free to reach out to me at samueladriancerezo@gmail.com. I'd love to hear from you!
 
-What I'm working on
-----------
-
-🚀 At the moment, I'm focused on finishing my PhD thesis.
 
 Let's collaborate!
 ----------
