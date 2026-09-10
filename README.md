@@ -3,7 +3,7 @@ Hi there! I'm Samuel Cerezo 👋
 
 ----------
 
-Electronic Engineer and researcher with international experience in Argentina, Spain, and Germany. Formerly in the oil industry, now completing a Ph.D. in Systems Engineering and Computer Science under Prof. Javier Civera’s supervision. Skilled in C++, Python, and MATLAB, with a strong focus on real-time systems, optimization, and modular design. Passionate about turning technology advances into robust, deployable solutions.
+Electronic Engineer and researcher with international experience in Argentina, Spain, and Germany. Formerly in the oil industry, with a Ph.D. in Systems Engineering and Computer Science under Prof. Javier Civera’s supervision. Skilled in C++, Python, and MATLAB, with a strong focus on real-time systems, optimization, and modular design. Passionate about turning technology advances into robust, deployable solutions.
 
 Here you can find my personal website:  https://samuel-cerezo.github.io/
 
